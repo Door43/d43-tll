@@ -10,6 +10,10 @@
 
   * [[tll:obs|Open Bible Stories (tll)]]
 
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tll|d43-tll repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tll/archive/master.zip|d43-tll.zip]]
+
 **Recent Changes**
 {{changes>ns = tll}}
 
